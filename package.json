@@ -1,0 +1,25 @@
+{
+  "name": "react-herux",
+  "version": "0.0.1",
+  "description": "React binding for Herux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/arusakov/react-herux.git"
+  },
+  "keywords": [
+    "flux",
+    "herux",
+    "react",
+    "reactjs"
+  ],
+  "author": "Alexander Rusakov <a_s_rusakov@mail.ru> (https://github.com/arusakov)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arusakov/react-herux/issues"
+  },
+  "homepage": "https://github.com/arusakov/react-herux#readme"
+}
